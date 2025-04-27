@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatinKHD
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently junior Angular Developer
+- 👀 I’m interested in web development
+- 🌱 I’m currently Mid-level Angular Developer
 - 📫 How to reach me matink714@gmail.com
 
 <!---
